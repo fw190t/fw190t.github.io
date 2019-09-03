@@ -2,9 +2,9 @@
 layout: page
 title: 夢の跡
 showtag:
-- 往昔
+- Live 2D
 ---
-## 近期
+## 文章
 
 {% for post in site.posts limit:5 %}
 

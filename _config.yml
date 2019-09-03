@@ -156,7 +156,7 @@ sidebar:
     info: <br>退伍老兵<br>二本毕业生<br>立志编程<br>钢铁直男<br> # 头像背后的信息
   #description: '<iframe frameborder="no" border="0" marginwidth="0"
   #marginheight="0" width=100% height=52
-  #src="//music.163.com/#/song?id=26134218"></iframe>'
+  #src="//music.163.com/"></iframe>'
   social:
   - title: rss
     href: /atom.xml
