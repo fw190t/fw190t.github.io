@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>fw190t</title>
+ <link href="http://fw190t.github.io/atom.xml" rel="self"/>
+ <link href="http://fw190t.github.io/"/>
+ <updated>2019-09-04T16:21:32+08:00</updated>
+ <id>http://fw190t.github.io</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>聪明人与割韭菜</title>
+   <link href="http://fw190t.github.io/posts/%E8%81%AA%E6%98%8E%E4%BA%BA%E4%B8%8E%E5%89%B2%E9%9F%AD%E8%8F%9C"/>
+   <updated>2019-09-04T00:00:00+08:00</updated>
+   <id>http://fw190t.github.io/posts/聪明人与割韭菜</id>
+   <content type="html">&lt;h1 id=&quot;聪明人与割韭菜&quot;&gt;聪明人与割韭菜&lt;/h1&gt;
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;引子&quot;&gt;引子&lt;/h3&gt;
+&lt;hr /&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;	在国内还是以优酷和土豆为主时，一个叫性巴萨拉的UP曾在他的视频里谈到：“现在到处都是傻瓜，为什么不去割韭菜？正是因为到处都是傻瓜，所以更不应该割韭菜！”我一直到最近才了解这句话的含义。
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;两种聪明人&quot;&gt;两种聪明人&lt;/h3&gt;
+&lt;hr /&gt;
+&lt;ul&gt;
+  &lt;li&gt;一种聪明人登高急呼，却叫不醒几个人&lt;/li&gt;
+  &lt;li&gt;另一种聪明人则是发现有利可图，大肆割韭菜&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;割韭菜&quot;&gt;割韭菜&lt;/h3&gt;
+&lt;hr /&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;	性巴萨拉就是第一种聪明人。而韭菜自然是聪明人以外的其他人。这不是章口就莱，下面看一下最新的网民报告。
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;中国互联网络发展状况统计报告&quot;&gt;《中国互联网络发展状况统计报告》&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;先直接说结论吧：报告显示: 中国网民79.9%没上过大学、72.8%月收入在5000元以下&lt;/li&gt;
+  &lt;li&gt;报告来源：8月30日，中国互联网络信息中心（CNNIC）在京发布的第44次《中国互联网络发展状况统计报告》（以下简称:《报告》）。&lt;a href=&quot;http://www.sohu.com/a/298429090_470079&quot;&gt;查看报告全文&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;学历结构
+&lt;img src=&quot;http://5b0988e595225.cdn.sohucs.com/images/20190301/3e690cb0b68e474ca07f8279e3165025.jpeg&quot; alt=&quot;学历结构&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;网民月收入
+&lt;img src=&quot;http://5b0988e595225.cdn.sohucs.com/images/20190301/9222b915d269475eb67ab8cee4a16e22.jpeg&quot; alt=&quot; 网民月收入&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>建立博客</title>
+   <link href="http://fw190t.github.io/posts/%E5%BB%BA%E7%AB%8B%E5%8D%9A%E5%AE%A2"/>
+   <updated>2019-09-03T00:00:00+08:00</updated>
+   <id>http://fw190t.github.io/posts/建立博客</id>
+   <content type="html">&lt;h1 id=&quot;建立自己的博客&quot;&gt;建立自己的博客&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;ul&gt;
+  &lt;li&gt;感谢Wu-kan大佬在Jekyll发布的模板&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fw190t.github.io/about&quot;&gt;如何建立博客&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>
