@@ -61,9 +61,9 @@ head: # 删改前确定知道自己在做什么
 - tag: link # 网站大图标，我偷懒直接用gravatar了，也可以存在/public里面
   var:
   - key: rel
-    value: apple-touch-icon-precomposed
+    value: //public/image/icon.jpg
   - key: href
-    value: //www.gravatar.com/avatar/a12c5fff23dde00df79af9aca4e7b6e4?d=wavatar&s=144
+    value: //public/image/icon.jpg
 - tag: link # 小图标，同上
   var:
   - key: rel
