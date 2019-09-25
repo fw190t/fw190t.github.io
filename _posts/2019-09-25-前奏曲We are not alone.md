@@ -1,7 +1,8 @@
 ### 前奏曲-We are not alone-澤野弘之
 ***
-{% highlight html linenos %}
+
 <html>
+
     <head>
         <meta charset="UTF-8">
         <title></title>
@@ -10,6 +11,5 @@
     <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=501475&auto=1&height=66"></iframe>
 ​    </body>
 </html>
-{% endhighlight %}
 
 
